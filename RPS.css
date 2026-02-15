@@ -61,10 +61,11 @@ img{
 
 
 #msg{
-    background-color: aquamarine;
+    background-color: aqua;
     color:blueviolet;
    font-size: 20px;
     display:inline;
     padding:1rem;
     border: radius 1rem;
+
 }
